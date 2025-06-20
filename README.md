@@ -15,10 +15,6 @@ Create the following diagrams in StarUML:
 6. Package Diagram
 
 # DIAGRAMS:
-```
-PROGRAM DEVELOPED BY :Abishai K C
-REGISTER NO :212223240002
-```
 
 **USE CASE DIAGRAM:**
 
